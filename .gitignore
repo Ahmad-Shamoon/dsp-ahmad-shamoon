@@ -1,4 +1,6 @@
+HEAD
 "venv/" 
+HEAD
 # Ignore dataset folder
 data/
 
@@ -12,3 +14,7 @@ __pycache__/
 # Virtual environments
 venv/
 .venv/
+
+"data/" 
+792c3bd6d006c8e933f1af5d866643aa3b991d35
+ pw1
