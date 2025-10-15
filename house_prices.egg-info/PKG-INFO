@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: house_prices
+Version: 0.1.0
+Summary: A simple package for training and predicting house prices.
+Author: Ahmad Shamoon
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: joblib
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
